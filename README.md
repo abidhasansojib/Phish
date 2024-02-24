@@ -12,7 +12,12 @@ Phish is a phishing tool and it is a modified version of pyphisher. To use this 
  ```
  git clone https://github.com/abidhasansojib/Phish 
  ```
-
+```
+cd Phish
+```
+```
+pip3 install -r requirements.txt
+```
  ```
 python3 phish.py
 ```   
