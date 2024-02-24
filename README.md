@@ -6,7 +6,7 @@ Phish is a phishing tool and it is a modified version of pyphisher. To use this 
 
 ## Table of Contents
 - ### Installation
-- Just clone this repo and run the puthon file.
+- Just clone this repo and run the python file.
 
 ## Installation
  ```
